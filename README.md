@@ -16,7 +16,6 @@ My programming journey began with C#, and my first serious projects were built u
 # 📊 GitHub Stats:
 ![](https://readme-stats-fast.vercel.app/api?username=dexsper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com?user=dexsper&theme=tokyonight&hide_border=false)
-![](https://readme-stats-fast.vercel.app/api/top-langs/?username=dexsper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-fast.vercel.app/?username=dexsper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
